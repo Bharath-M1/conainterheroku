@@ -1,0 +1,3 @@
+clear side scroll on mainpage ---- Error in carousel
+
+hover effect on gallery component === done 
